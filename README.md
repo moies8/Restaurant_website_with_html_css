@@ -3,25 +3,6 @@
 Restaurant Website
 Welcome to the Restaurant Website project! This is a simple, stylish website designed to showcase a restaurant's offerings, including its menu, features, and contact information. It includes a hero section, feature highlights, a menu grid, and a footer with social media links and a newsletter sign-up.
 
-Table of Contents
-Features
-Technologies Used
-Installation
-Usage
-Contributing
-License
-Features
-Hero Section: A captivating introduction with a promotional tag and call-to-action button.
-Features Section: Highlights of the restaurant's key features with icons and descriptions.
-Menu Grid: A visually appealing grid layout showcasing different menu items.
-Footer: Includes links to main sections, support information, a newsletter subscription form, and social media icons.
-Technologies Used
-HTML5: Structure and content of the web pages.
-CSS3: Styling and layout.
-Font Awesome: Icons for navigation and social media.
-Google Fonts: Custom fonts for a better visual appeal.
-Installation
-To run this project locally, follow these steps:
 
 Clone the repository:
 
